@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **mahafujer1999@gmail.com or 
-- 20103200@iubat.edu**
+- 📫 How to reach me **mahafujer1999@gmail.com
 
 - ⚡ Fun fact **I think i'm funny.**
 

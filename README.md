@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I think i'm funny.**
 
 <h3 align="center"> Connect with me: </h3>
- <div align="left">
+ <div align="center">
    <a href= "https://www.facebook.com/mahafujer1999" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
    <a href= "https://www.linkedin.com/in/mahafujerrahman/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   

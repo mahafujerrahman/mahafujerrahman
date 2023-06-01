@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahafujerrahman&show_icons=true&locale=en" alt="mahafujerrahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujerrahman&" alt="mahafujerrahman" /></p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=dracula)](https://github.com/mahafujerrahman/github-readme-activity-graph)

@@ -38,3 +38,17 @@
 
   ## 💰 You can help buy me a coffee!
 <a href="https://www.buymeacoffee.com/mahafujer1w"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Re-usable Flutter widgets and scalable Flutter projects](https://www.youtube.com/watch?v=3QikoLe2kXY)
+- [Flutter 3.10 - 🌐 Fusion Unleashed: Embedding Flutter Web in a SvelteKit Application](https://www.youtube.com/watch?v=sK-wmZg9LoY)
+- [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
+- [Appwrite Cloud Now in Public Beta - Signup and Get Started Today](https://www.youtube.com/watch?v=IGyq57mI1CU)
+<!-- YOUTUBE:END -->
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+- [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
+- [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
+<!-- BLOG-POST-LIST:END -->

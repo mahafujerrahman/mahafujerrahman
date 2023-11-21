@@ -36,7 +36,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=merko)](https://github.com/mahafujerrahman/github-readme-activity-graph)
 
-  ## 💰 You can help buy me a coffee!
+  ## ☕ You can buy a coffee for me!
 <a href="https://www.buymeacoffee.com/mahafujer1w"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->

@@ -1,10 +1,5 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<img src="https://raw.githubusercontent.com/mahafujerrahman/mahafujerrahman/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/mahafujerrahman/mahafujerrahman/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
+![snake gif](https://github.com/mahafujerrahman/mahafujerrahman/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Mahafujer Rahman Munna</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>

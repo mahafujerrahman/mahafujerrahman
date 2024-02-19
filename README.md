@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <img src="https://raw.githubusercontent.com/mahafujerrahman/mahafujerrahman/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/jayeeed/jayeeed/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mahafujerrahman/mahafujerrahman/output/snake.svg" alt="Snake animation" />
 
 ###
 

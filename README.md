@@ -46,12 +46,12 @@
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter short Sneaker Shop | 2023](https://youtube.com/shorts/GPcEBthJ92o?si=1RUOnYJpNIzMxFiw)
-- [Flutter Task Management App ](https://youtu.be/a27_kQZX-8w?si=ppkmFRdDCPrM2l0m)
+- [My Protfolio | 2024 ](https://mahafujer-protfolio.vercel.app/)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-- [ Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
-- [Embark on a Project-Based Learning Adventure](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
+- [Data Types In Dart](https://tech-talksmind.blogspot.com/2023/12/data-types-in-dart.html)
+- [Flutter Corner Radius Management: A Brief Guide to Top Left and Right, Bottom Left and Right Radius](https://tech-talksmind.blogspot.com/2023/12/flutter-corner-radius-management-brief.html)
 <!-- BLOG-POST-LIST:END -->

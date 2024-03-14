@@ -15,7 +15,8 @@
 <h3 align="left"> Connect with me: </h3>
  <div align="left">
    <a href= "https://www.facebook.com/mahafujer1999" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-   <a href= "https://www.linkedin.com/in/mahafujerrahman/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href= "https://www.linkedin.com/in/mahafujerrahman/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href= "https://www.linkedin.com/in/mahafujerrahman/" > <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
+
   
 
 <h3 align="left">Languages and Tools:</h3>

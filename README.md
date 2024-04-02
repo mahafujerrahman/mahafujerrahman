@@ -59,4 +59,6 @@
 
 - [Data Types In Dart](https://tech-talksmind.blogspot.com/2023/12/data-types-in-dart.html)
 - [Flutter Corner Radius Management: A Brief Guide to Top Left and Right, Bottom Left and Right Radius](https://tech-talksmind.blogspot.com/2023/12/flutter-corner-radius-management-brief.html)
+- [Understanding the Flutter Code Foundation: Functions vs. Methods](https://medium.com/@mahafujer1999/understanding-the-flutter-code-foundation-functions-vs-methods-a8d29c63581d)
+
 <!-- BLOG-POST-LIST:END -->

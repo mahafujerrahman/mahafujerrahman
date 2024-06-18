@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
-<h1 align="center">Hi👋 I'm Mahafujer Rahman Munna </h1>
+<h1 align="center">Hi 👋 I'm Mahafujer Rahman Munna </h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 <img align ="right" alt "Coding" width="400" src="https://themewagon.github.io/satner/img/banner/home-right.png">
 

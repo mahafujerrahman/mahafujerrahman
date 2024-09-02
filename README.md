@@ -19,7 +19,7 @@
    <a href= "https://stackoverflow.com/users/23298138/mahafujer-rahman" > <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
     <br>
    <a href= "https://www.hackerrank.com/profile/mahafujer1999" > <img src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4"width="60" height="50">
-   <a href="https://judge.beecrowd.com/en/profile/430332"> <img src="https://shorturl.at/uG7Nk" width="100" height="50" alt="Image">
+   <a href="https://judge.beecrowd.com/en/profile/430332"> <img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60" height="50" alt="Image">
 
   
 

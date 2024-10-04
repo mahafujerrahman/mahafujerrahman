@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mahafujer1999@gmail.com**
 
-- ⚡ Fun fact ** I think I'm funny.**
+- ⚡ Fun fact **Hello**
 
 <h3 align="left"> Connect with me: </h3>
  <div align="left">

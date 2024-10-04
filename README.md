@@ -47,7 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujerrahman&" alt="mahafujerrahman" /></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=merko)](https://github.com/mahafujerrahman/github-readme-activity-graph)
+[![Mahafujer Rahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=merko)](https://github.com/mahafujerrahman/github-readme-activity-graph)
 
   ## ☕ You can buy a coffee for me!
 <a href="https://www.buymeacoffee.com/mahafujer1w"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -8,7 +8,7 @@
 
 - 🚀 I’m currently learning **Flutter**
 
-- 📫 How to reach me **mahafujer1999@gmail.com**
+- 📫 How to reach me  **mahafujer1999@gmail.com**
 
 - ⚡ Fun fact **Hello**
 

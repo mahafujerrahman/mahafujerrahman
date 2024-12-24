@@ -46,7 +46,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujerrahman&" alt="mahafujerrahman" /></p>
 
-
 ### GitHub Activity
 [![Mahafujer Rahman's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/mahafujerrahman)
 

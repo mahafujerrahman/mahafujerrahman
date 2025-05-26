@@ -1,4 +1,10 @@
  ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+<div align="center" dir="auto" style="background-color:#FF0000; padding:10px; border-radius:8px; display:inline-block;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; display: block;">
+  </a>
+</div>
+
 
 <h1  align="center"> Hi👋I'm Mahafujer Rahman Munna</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
@@ -47,11 +53,6 @@
 
 ### GitHub Activity
 [![Mahafujer Rahman's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/mahafujerrahman)
-
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"></a>
-</div>
-
 
   ## ☕ You can buy a coffee for me!
 <a href="https://www.buymeacoffee.com/mahafujer1w"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

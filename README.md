@@ -48,7 +48,9 @@
 ### GitHub Activity
 [![Mahafujer Rahman's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahafujerrahman&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/mahafujerrahman)
 
-
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"></a>
+</div>
 
 
   ## ☕ You can buy a coffee for me!

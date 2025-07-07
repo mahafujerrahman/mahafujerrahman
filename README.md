@@ -1,5 +1,5 @@
  ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<div align="center" dir="auto" style="background-color:#FF0000; padding:10px; border-radius:8px; display:inline-block;">
+<div align="center" dir="auto"style="background-color:#FF0000; padding:10px; border-radius:8px; display:inline-block;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; display: block;">
   </a>

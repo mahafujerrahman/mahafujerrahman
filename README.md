@@ -6,14 +6,14 @@
 </div>
 
 <h1  align="center">Hi👋I'm Mahafujer Rahman Munna</h1>
-<h3 align="center">A passionate Software Engineer (Flutter) from Bangladesh</h3>
+<h3 align="center">A Software Engineer (Flutter) from Bangladesh</h3>
 <img align ="right" alt "Coding" width="400" src="https://themewagon.github.io/satner/img/banner/home-right.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahafujerrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mahafujerrahman" /></p>
 
 - 🚀 I’m currently working with **Flutter**
 
-- 📫 How to reach me  **mahafujer1999@gmail.com**
+- 📫 How to reach me  **mahafujer@gmail.com**
 
 - ⚡ Fun fact **Hello**
 

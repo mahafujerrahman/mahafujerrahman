@@ -13,7 +13,7 @@
 
 - 🚀 I’m currently working with **Flutter**
 
-- 📫 How to reach me  **mahafujer@gmail.com**
+- 📫 How to reach me  **mahafujer.work@gmail.com**
 
 - ⚡ Fun fact **Hello**
 

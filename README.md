@@ -39,6 +39,10 @@
  </p>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://www.svgrepo.com/show/452223/google-play.svg" height="40" alt="csharp logo"  />
+<img width="12" />
 
 </p>
 

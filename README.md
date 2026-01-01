@@ -15,7 +15,6 @@
 
 - 📫 How to reach me  **mahafujer.work@gmail.com**
 
-- ⚡ Fun fact **Hello**
 
 <h3 align="left"> Connect with me: </h3>
  <div align="left">
